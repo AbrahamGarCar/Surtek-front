@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CarneSurtek"
+    }
+  },
+  "defaultProject": "CarneSurtek",
+  "cli": {
+    "analytics": "fa4bf8f3-820e-48df-a3c3-4115953910fe"
+  }
 }
